@@ -158,6 +158,6 @@ document.addEventListener("keyup", function (e) {
 
 
 
-if (App::environment('production')) {
-    URL::forceScheme('https');
-}
+
+
+
